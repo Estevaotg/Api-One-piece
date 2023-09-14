@@ -1,1 +1,61 @@
 
+    {
+        "Nome": "Shanks",
+        "Recompensa": "4.048.900.000",
+        "Akumanomi": "Desconhecido",
+        "TipoFruta": "Desconhecido",
+        "Bando": "Os Piratas do ruivo",
+        "titulos": "O Ruivo, Yonkou",
+        "Haki": "Busoshoku, Haoshoku e Kenbunshoku",
+        "Raca": "Humano" ,
+        "foto": "https://static.wikia.nocookie.net/onepiece/images/6/66/Shanks_Anime_Infobox.png/revision/latest?cb=20181124193224&path-prefix=pt"   
+    },
+
+    {
+        "Nome": "Ben Beckman",
+        "Recompensa": "Desconhecido",
+        "Akumanomi": "Desconhecido",
+        "TipoFruta": "Desconhecido",
+        "Bando": "Os Piratas do ruivo",
+        "titulos": "Desconhecido",
+        "Haki": "Busoshoku e Kenbunshoku",
+        "Raca": "Humano" ,
+        "foto": "https://static.wikia.nocookie.net/onepiece/images/8/85/Benn_Beckman_Portrait.png/revision/latest/scale-to-width-down/119?cb=20191128121953&path-prefix=pt"   
+    },
+
+    {
+        "Nome": "lucky Roux",
+        "Recompensa": "Desconhecido",
+        "Akumanomi": "Desconhecido",
+        "TipoFruta": "Desconhecido",
+        "Bando": "Os Piratas do ruivo",
+        "titulos": "Desconhecido",
+        "Haki": "Busoshoku e Kenbunshoku",
+        "Raca": "Humano" ,
+        "foto": "https://static.wikia.nocookie.net/onepiece/images/7/7e/Lucky_Roux_Portrait.png/revision/latest/scale-to-width-down/119?cb=20190809202315&path-prefix=pt"   
+    },
+
+    {
+        "Nome": "Yasopp",
+        "Recompensa": "Desconhecido",
+        "Akumanomi": "Desconhecido",
+        "TipoFruta": "Desconhecido",
+        "Bando": "Os Piratas do ruivo",
+        "titulos": "Desconhecido",
+        "Haki": "Kenbunshoku",
+        "Raca": "Humano" ,
+        "foto": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Yasopp_Portrait.png/revision/latest/scale-to-width-down/119?cb=20190111003734&path-prefix=pt"   
+    },
+
+
+    {
+        "Nome": "Monster",
+        "Recompensa": "Desconhecido",
+        "Akumanomi": "Desconhecido",
+        "TipoFruta": "Desconhecido",
+        "Bando": "Os Piratas do ruivo",
+        "titulos": "Desconhecido",
+        "Haki": "Kenbunshoku",
+        "Raca": "Humano" ,
+        "foto": "https://static.wikia.nocookie.net/onepiece/images/3/3c/Yasopp_Portrait.png/revision/latest/scale-to-width-down/119?cb=20190111003734&path-prefix=pt"   
+    }
