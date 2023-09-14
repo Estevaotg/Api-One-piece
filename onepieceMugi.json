@@ -1,15 +1,14 @@
 [
     {
-    "Nome": "Monkey D. Luffy",
-    "Akumanomi": "Hito Hito no Mi, Modelo: Nika",
-    "TipoFruta": "Zoan Mítica",
-    "Bando": "Bando do chapéu de palha",
-    "titulos": "Yonkou, Pior geração",
-    "Haki": "Busoshoku, Haoshoku e Kenbunshoku",
-    "Raca": "Humano",   
-    "foto":"https://i.ytimg.com/vi/t-KYl3UpQyg/maxresdefault.jpg"   
+        "Nome": "Monkey D. Luffy",
+        "Akumanomi": "Hito Hito no Mi, Modelo: Nika",
+        "TipoFruta": "Zoan Mítica",
+        "Bando": "Bando do chapéu de palha",
+        "titulos": "Yonkou, Pior geração",
+        "Haki": "Busoshoku, Haoshoku e Kenbunshoku",
+        "Raca": "Humano",
+        "foto": "https://i.ytimg.com/vi/t-KYl3UpQyg/maxresdefault.jpg"
     },
-
     {
         "Nome": "Roronoa Zoro",
         "Recompensa": "1.111.000.000",
@@ -19,9 +18,8 @@
         "titulos": "Caçador de Piratas Zoro, Pior Geração",
         "Haki": "Busoshoku, Haoshoku e Kenbunshoku",
         "Raca": "Humano",
-        "foto":"https://wallpapers-clan.com/wp-content/uploads/2022/08/zoro-pfp-1.jpg"   
+        "foto": "https://wallpapers-clan.com/wp-content/uploads/2022/08/zoro-pfp-1.jpg"
     },
-
     {
         "Nome": "Usopp",
         "Recompensa": "500.000.000",
@@ -31,21 +29,19 @@
         "titulos": "God. Usopp, Sogeking, Rei dos Atiradores",
         "Haki": "Não associado/não informado",
         "Raca": "Humano",
-        "foto":"https://nerdhits.com.br/wp-content/uploads/2023/02/one-piece-8.jpg"       
+        "foto": "https://nerdhits.com.br/wp-content/uploads/2023/02/one-piece-8.jpg"
     },
-
     {
         "Nome": "Nami",
-        "Recompensa": "366.000.000", 
+        "Recompensa": "366.000.000",
         "Akumanomi": "Não associado/não informado",
         "TipoFruta": "Não associado/não informado",
         "Bando": "Bando do chapéu de palha",
         "titulos": "Gatuna",
         "Haki": "Não associado/não informado",
         "Raca": "Humano",
-        "foto":"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2a4fd09-561a-4019-b2c9-6461fa3db151/denklvs-4d2a70f0-7d3f-447e-b371-8532ed09a474.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyYTRmZDA5LTU2MWEtNDAxOS1iMmM5LTY0NjFmYTNkYjE1MVwvZGVua2x2cy00ZDJhNzBmMC03ZDNmLTQ0N2UtYjM3MS04NTMyZWQwOWE0NzQuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.peMvxYc3aUx2h0adLzFpMduDUOOz3uFtXwPR0WVZaRE"       
+        "foto": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2a4fd09-561a-4019-b2c9-6461fa3db151/denklvs-4d2a70f0-7d3f-447e-b371-8532ed09a474.jpg?token=..."
     },
-
     {
         "Nome": "Tony Tony Chopper",
         "Recompensa": "1000",
@@ -55,7 +51,7 @@
         "titulos": "Não associado/não informado",
         "Haki": "Não associado/não informado",
         "Raca": "Animal",
-        "foto":"https://i.pinimg.com/474x/c0/c7/1b/c0c71bcadc86be5ea1c9193e71e3b05a.jpg"     
+        "foto": "https://i.pinimg.com/474x/c0/c7/1b/c0c71bcadc86be5ea1c9193e71e3b05a.jpg"
     },
     {
         "Nome": "Nico Robin",
@@ -65,19 +61,19 @@
         "Bando": "Bando do chapéu de palha",
         "titulos": "Criança Demônio",
         "Haki": "Não associado/não informado",
-         "Raca": "Humano",
-         "foto":"https://i.pinimg.com/1200x/48/e4/f8/48e4f8b8638422c78744f14b0cc6e6bd.jpg"      
+        "Raca": "Humano",
+        "foto": "https://i.pinimg.com/1200x/48/e4/f8/48e4f8b8638422c78744f14b0cc6e6bd.jpg"
     },
     {
         "Nome": "Franky",
-        "Recompensa": "394.000.000", 
+        "Recompensa": "394.000.000",
         "Akumanomi": "Não associado/não informado",
         "TipoFruta": "Não associado/não informado",
         "Bando": "Bando do chapéu de palha",
         "titulos": "Não associado/não informado",
         "Haki": "Não associado/não informado",
         "Raca": "Ciborgue",
-        "foto":"https://pbs.twimg.com/media/EkpyCVDW0AAftu5.png" 
+        "foto": "https://pbs.twimg.com/media/EkpyCVDW0AAftu5.png"
     },
     {
         "Nome": "Jinbe",
@@ -88,19 +84,17 @@
         "titulos": "Ex Shichibukai",
         "Haki": "Busoshoku",
         "Raca": "Homem peixe",
-        "foto":"https://i.pinimg.com/1200x/05/f3/ed/05f3edc28da4d81eb9b2d3aefcd44d43.jpg"      
+        "foto": "https://i.pinimg.com/1200x/05/f3/ed/05f3edc28da4d81eb9b2d3aefcd44d43.jpg"
     },
     {
         "Nome": "Brook",
         "Recompensa": "383.000.000",
         "Akumanomi": "Yomi Yomi no Mi",
-        "TipoFruta": "paramecia",
+        "TipoFruta": "Paramecia",
         "Bando": "Bando do chapéu de palha",
         "titulos": "Não associado/não informado",
         "Haki": "Não associado/não informado",
         "Raca": "Humano",
-        "foto":"https://upload.wikimedia.org/wikipedia/it/thumb/5/55/Brook.png/1200px-Brook.png"      
+        "foto": "https://upload.wikimedia.org/wikipedia/it/thumb/5/55/Brook.png/1200px-Brook.png"
     }
-
-
 ]
